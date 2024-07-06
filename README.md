@@ -1,47 +1,12 @@
-```
-┌───────────────────────────────────────────────┐
-                                       _       
-     __ _  ___   ___  _ __ _ __ ___   (_) ___  
-    / _` |/ _ \ / _ \| '__| '_ ` _ \  | |/ _ \ 
-   | (_| | (_) | (_) | |  | | | | | |_| | (_) |
-    \__, |\___/ \___/|_|  |_| |_| |_(_)_|\___/ 
-    |___/                                      
-			     🌩 𝘼𝙣𝙮𝙤𝙣𝙚 𝙘𝙖𝙣 𝙙𝙚𝙫𝙚𝙡𝙤𝙥!
-└───────────────────────────────────────────────┘
-```
+"[[리액트 1부] 만들면서 학습하는 리액트](https://inf.run/BBPuX)" 수업 자료입니다.
 
-# goormIDE
-Welcome to goormIDE!
+## 내용
 
-goormIDE is a powerful cloud IDE service to maximize productivity for developers and teams.  
-**DEVELOP WITH EXCELLENCE**  
+컴포넌트, 상태, 이벤트 처리, 조건부/리스트 렌더링, 컴포넌트 생명주기 등 리액트를 사용하는 개발자라면 반드시 알고 넘어가야하는 개념을 배웁니다. 컴포넌트 역할 분담, 상태 끌어올리기 컴포넌트 재사용, 조합하는 방법을 통해 리액트 컴포넌트 설계 방법을 준비했습니다.
 
-`Happy coding! The goormIDE team`
-
-
-## 🔧 Tip & Guide
-
-* Command feature
-	* You can simply run your script using the shortcut icons on the top right.
-	* Check out `PROJECT > Common/Build/Run/Test/Find Command` in the top menu.
-	
-* Get URL and Port
-	* Click `PROJECT > URL/PORT` in top menu bar.
-	* You can get default URL/Port and add URL/Port in the top menu.
-
-* Useful shortcut
-	
-| Shortcuts name     | Command (Mac) | Command (Window) |
-| ------------------ | :-----------: | :--------------: |
-| Copy in Terminal   | ⌘ + C         | Ctrl + Shift + C |
-| Paste in Terminal  | ⌘ + V         | Ctrl + Shift + V |
-| Search File        | ⌥ + ⇧ + F     | Alt + Shift + F  |
-| Terminal Toggle    | ⌥ + ⇧ + B     | Alt + Shift + B  |
-| New Terminal       | ⌥ + ⇧ + T     | Alt + Shift + T  |
-| Code Formatting    | ⌥ + ⇧ + P     | Alt + Shift + P  |
-| Show All Shortcuts | ⌘ + H         | Ctrl + H         |
-
-## 💬 Support & Documentation
-
-Visit [https://ide.goorm.io](https://ide.goorm.io) to support and learn more about using goormIDE.  
-To watch some usage guides, visit [https://help.goorm.io/en/goormide](https://help.goorm.io/en/goormide)
+**1편 준비편 - Vanilla JS**
+- 검색폼
+- 검색결과
+- 탭
+- 추천 검색어
+- 최근 검색어
